@@ -1,4 +1,4 @@
-<h2>Sorting Algorithms</h2>
+<h2><ol>Sorting Algorithms</ol></h2>
 <h3>Selection sort:</h3>
 Time Complexity = O(n<sup>2</sup>)
 
@@ -14,7 +14,7 @@ Time Complexity = O(n<sup>2</sup>)
 <li>Suitable for small lists.</li>
 <li>Heap Sort algorithm is based on Selection Sort.</li>
 
-<h3>Bubble sort:</h3>
+<h3><ol>Bubble sort:</h3></ol>
 Time Complexity = O(n<sup>2</sup>)
 
 <h4>Advantages:</h4>
