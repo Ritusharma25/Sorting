@@ -46,3 +46,13 @@ Time Complexity = O(n log n)
 <li>It can be easily parallelized as we can independently sort subarrays and then merge.</li>
 <li>The merge function of merge sort to efficiently solve the problems like union and intersection of two sorted arrays.</li>
 
+<h3><ol>Merge sort:</h3></ol>
+Time Complexity = O(n log n)
+
+<h4>Applications:</h4>
+<li>Sorting large datasets</li>
+<li>Merge Sort and its variations are used in library methods of programming languages.</li>
+<li>It is a preferred algorithm for sorting Linked lists.</li>
+<li>It can be easily parallelized as we can independently sort subarrays and then merge.</li>
+<li>The merge function of merge sort to efficiently solve the problems like union and intersection of two sorted arrays.</li>
+
