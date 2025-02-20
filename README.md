@@ -39,6 +39,12 @@ Time Complexity = O(n<sup>2</sup>)
 <h3><ol>Merge sort:</h3></ol>
 Time Complexity = O(n log n)
 
+<h4>Advantages:</h4>
+<li>Stability : Merge sort is a stable sorting algorithm, which means it maintains the relative order of equal elements in the input array.</li>
+<li>Guaranteed worst-case performance: Merge sort has a worst-case time complexity of O(N logN) , which means it performs well even on large datasets.</li>
+<li>Simple to implement: The divide-and-conquer approach is straightforward.</li>
+<li>Naturally Parallel : We independently merge subarrays that makes it suitable for parallel processing.</li>
+
 <h4>Applications:</h4>
 <li>Sorting large datasets</li>
 <li>Merge Sort and its variations are used in library methods of programming languages.</li>
