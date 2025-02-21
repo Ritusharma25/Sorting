@@ -45,6 +45,11 @@ Time Complexity = O(n log n)
 <li>Simple to implement: The divide-and-conquer approach is straightforward.</li>
 <li>Naturally Parallel : We independently merge subarrays that makes it suitable for parallel processing.</li>
 
+<h4>Disadvantages:</h4>
+<li>Space complexity: Merge sort requires additional memory to store the merged sub-arrays during the sorting process.</li>
+<li>Not in-place: Merge sort is not an in-place sorting algorithm, which means it requires additional memory to store the sorted data. This can be a disadvantage in applications where memory usage is a concern.</li>
+<li>Merge Sort is Slower than QuickSort in general as QuickSort is more cache friendly because it works in-place.</li>
+
 <h4>Applications:</h4>
 <li>Sorting large datasets</li>
 <li>Merge Sort and its variations are used in library methods of programming languages.</li>
