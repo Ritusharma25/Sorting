@@ -1,5 +1,5 @@
 <h2>Sorting Algorithms</h2>
-<h3><ol>Selection sort:</ol>ol></h3>
+<h3><ol>Selection sort:</ol></h3>
 Time Complexity = O(n<sup>2</sup>)
 
 <h4>Advantages:</h4>
