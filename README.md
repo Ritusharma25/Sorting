@@ -15,7 +15,7 @@ Time Complexity = O(n<sup>2</sup>)
 <li>Heap Sort algorithm is based on Selection Sort.</li>
 
 <h3><ol>Bubble sort:</h3></ol>
-Time Complexity = O(n<sup>2</sup>)
+Time Complexity = O(n<sup>2</sup>) 
 
 <h4>Advantages:</h4>
 <li>It does not require any additional memory space.</li>
