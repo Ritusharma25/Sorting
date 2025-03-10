@@ -32,9 +32,6 @@ Time Complexity = O(n<sup>2</sup>)
 <li>It does not require any additional memory space.</li>
 <li>It is a stable sorting algorithm, meaning that elements with the same key value maintain their relative order in the sorted output.</li>
 
-<h4>Disadvantages:</h4>
-<li>Bubble sort has a time complexity of O(n2) which makes it very slow for large data sets.</li>
-<li>Bubble sort has almost no or limited real world applications.</li>
 
 <h3><ol>Merge sort:</h3></ol>
 Time Complexity = O(n log n)
